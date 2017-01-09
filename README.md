@@ -85,4 +85,4 @@ If you are a developer, we need your help. GitList is a young project and we hav
 * Improve the [test coverage](http://ci.gitlist.org:8080/job/GitList%20\(master\)/9/cloverphp-report/) by creating unit and functional tests
 
 ## Further information
-If you want to know more about customizing GitList, check the [Customization](https://github.com/klaussilveira/gitlist/wiki/Customizing) page on the wiki. Also, if you're having problems with GitList, check the [Troubleshooting](https://github.com/klaussilveira/gitlist/wiki/Troubleshooting) page. Don't forget to report issues and suggest new features! :)
+If you want to know more about customizing GitList, check the [Customization](https://github.com/klaussilveira/gitlist/wiki/Customizing) page on the wiki. Also, if you're having problems with GitList, check the [Troubleshooting](https://github.com/klaussilveira/gitlist/wiki/Troubleshooting) page. Don't forget to report issues and suggest new features! :) 
